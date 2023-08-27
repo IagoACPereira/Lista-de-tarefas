@@ -4,7 +4,7 @@
 
 ## Endpoints
 
-- GET "/": Transfere para "/tarefas";
+- GET "/": Redireciona para "/tarefas";
 - GET "/tarefas": Exibe todas as tarefas;
 - GET "/tarefas/:id": Exibe tarefa por id;
 - POST "/tarefas": aramazena no banco a titulo de descricao da tarefa;
